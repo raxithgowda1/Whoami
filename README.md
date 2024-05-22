@@ -1,5 +1,5 @@
-
-┌──(raxithgowda1㉿GitHub)-[~]└─$ cat about-me
+┌──(raxithgowda1㉿GitHub)-[~]
+└─$ cat about-me
 
 ⁍ Name : Rakshith Gowda
 ⁍ ??   : Bachelor of Engineering and technology in AI&ML
