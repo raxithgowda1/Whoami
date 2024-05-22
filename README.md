@@ -1,4 +1,3 @@
-File  Action  Edit  View  Help
 
 ┌──(raxithgowda1㉿GitHub)-[~]
 └─$ cat about-me
