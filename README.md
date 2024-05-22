@@ -1,13 +1,20 @@
-- 👋 Hi, I’m @racchuhacks1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+File  Action  Edit  View  Help
 
-<!---
-racchuhacks1/racchuhacks1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+┌──(shreyas㉿GitHub)-[~]
+└─$ cat about-me
 
-How does HTTP request smuggling work?
-HTTP request smuggling is an attack technique that is conducted by interfering with the processing of requests between the front end and back end servers. The attacker exploits the vulnerability by modifying the request to include another request in the first request's body
+⁍ Name : Shreyas Madhukar Chavhan
+⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
+⁍ ??   : Final Year Computer Engineering Student @ International Institute of Information Techonology, Pune (I²IT)
+
+: Learning :
+==> Source Code Analysis (White Box Testing)
+==> Black Box Testing (a lil' bit)
+==> Web3.0 -> BlockChain -> Ethereum -> Smart Contracts -> Solidity
+==> Smart Contract Security
+
+: Certification Currently Preparing for :
+==> OSWE - Offensive Security Web Expert (AWAE - Advanced Web Attacks and Exploitations) 
+
+: Working on :
+==> Building wargames based on solidity from scratch (Inspired by Ethernaut)
