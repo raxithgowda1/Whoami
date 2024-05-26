@@ -7,7 +7,8 @@
 
 : Learning :
 ==> Web Development-[html,css,javascript]
-==> Other back-end languages like C,Python,php,MySql,MongoDB
+==> Other back-end languages like C,Python,php
+==> MySql,MongoDB
 ==> Web Security researcher
 
 : Certification Currently Preparing for :
